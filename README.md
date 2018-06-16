@@ -1,6 +1,8 @@
-# pomotoro
+# Pomotoro
 
 > An electron-vue project
+
+A pomodoro tracking application with a simple task manager built in. Written using VueJs and Electron.
 
 #### Build Setup
 
