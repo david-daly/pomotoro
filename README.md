@@ -1,4 +1,4 @@
-# pomotoro
+# Pomotoro
 
 > An electron-vue project
 
