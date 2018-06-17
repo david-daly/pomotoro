@@ -7,21 +7,24 @@ A pomodoro tracking application with a simple task manager built in. Written usi
 #### Build Setup
 
 ``` bash
+# install yarn
+npm i -g yarn
+
 # install dependencies
-npm install
+yarn install
 
 # serve with hot reload at localhost:9080
-npm run dev
+yarn start || yarn dev
 
 # build electron application for production
-npm run build
+yarn build
 
 # run unit tests
-npm test
+yarn test
 
 
 # lint all JS/Vue component files in `src/`
-npm run lint
+yarn lint
 
 ```
 
