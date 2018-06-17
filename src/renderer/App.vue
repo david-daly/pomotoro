@@ -1,15 +1,21 @@
 <template>
   <div id="app">
+    <app-titlebar/>
     <router-view></router-view>
   </div>
 </template>
 
 <script>
-  export default {
-    name: 'pomotoro'
+  import appTitlebar from '@/components/Title.vue'
+
+export default {
+    name: 'PomoToro',
+    components: {
+      appTitlebar
+    }
   }
 </script>
 
 <style>
-  /* CSS */
+/* CSS */
 </style>
