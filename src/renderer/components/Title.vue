@@ -91,7 +91,7 @@ export default {
   }
 }
 .Title {
-  color: $colorGreen;
+  color: $colorBlueGrey;
   font-size: 1rem;
   font-weight: 200;
   padding-top: 18px;
