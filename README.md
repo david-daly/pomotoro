@@ -7,7 +7,7 @@ A pomodoro tracking application with a simple task manager built in. Written usi
 #### Build Setup
 
 ``` bash
-# install yarn
+# install yarn (Assuming you don't have it already)
 npm i -g yarn
 
 # install dependencies
